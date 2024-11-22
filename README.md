@@ -1,7 +1,9 @@
 # Projeto_Maven_Bank
 Projeto: Diagnóstico de Churn
 Descrição do Projeto:
+
 Este projeto utiliza uma base de dados aberta disponibilizada pela Maven Analytics para realizar um diagnóstico detalhado sobre churn, analisando diversas variáveis como idade, localização, status de atividade, posse de cartão de crédito, entre outras. O principal objetivo é identificar os fatores que levam os clientes a deixarem de utilizar nossos serviços e fornecer insights para melhorar a retenção.
+
 Propósito:
 O objetivo deste relatório é realizar uma análise aprofundada sobre churn em diferentes indicadores, fornecendo à equipe de diretores informações estratégicas para embasar decisões relacionadas à retenção de clientes e mitigação do churn. Por meio da análise de dados e da criação de um dashboard interativo, este projeto busca:
 
