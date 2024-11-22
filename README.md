@@ -23,4 +23,7 @@ O objetivo deste relatório é realizar uma análise aprofundada sobre churn em 
 - Melhoria na retenção de clientes, resultando em aumento de receita.
 - Maior compreensão dos fatores críticos para fidelização, permitindo a criação de estratégias de longo prazo.
 
+## Dasboard
+
+link: https://app.powerbi.com/view?r=eyJrIjoiMDgwYzQ1ZTQtMWU3Zi00N2NlLWJjNDItNTkwYTc1NWQ0YTc0IiwidCI6ImQxYmIyZGQyLWM2ZTEtNGI3MC05ZGY3LWFiY2IxMzYzMTU4MiJ9
 
