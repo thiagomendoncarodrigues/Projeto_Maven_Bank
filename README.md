@@ -13,9 +13,12 @@ Auxiliar na tomada de decisões estratégicas: O relatório fornece informaçõe
 
 Entregáveis:
 Relatório analítico com insights detalhados sobre churn e retenção.
+
 Dashboard interativo, facilitando a visualização de dados e tendências em tempo real.
+
 Recomendações práticas para a equipe de diretores, baseadas nos padrões identificados durante a análise.
 Benefícios esperados:
+
 Redução da taxa de churn através de ações específicas e direcionadas.
 Melhoria na retenção de clientes, resultando em aumento de receita.
 Maior compreensão dos fatores críticos para fidelização, permitindo a criação de estratégias de longo prazo.
